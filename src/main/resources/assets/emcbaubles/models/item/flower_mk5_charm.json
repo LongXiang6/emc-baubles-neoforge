@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "emcbaubles:item/flower_mk5_charm"
+  }
+}

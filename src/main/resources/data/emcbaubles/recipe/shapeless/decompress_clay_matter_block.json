@@ -1,0 +1,12 @@
+{
+  "result": {
+    "count": 9,
+    "id": "emcbaubles:clay_matter_block"
+  },
+  "ingredients": [
+    {
+      "item": "emcbaubles:compressed_clay_matter_block"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

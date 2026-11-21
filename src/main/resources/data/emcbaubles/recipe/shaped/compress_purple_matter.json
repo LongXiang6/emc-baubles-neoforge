@@ -1,0 +1,15 @@
+{
+  "result": {
+    "id": "emcbaubles:purple_matter_block"
+  },
+  "pattern": [
+    "XX",
+    "XX"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "tag": "emcbaubles:matter/tier6"
+    }
+  }
+}

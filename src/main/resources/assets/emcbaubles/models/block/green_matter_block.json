@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "emcbaubles:block/green_matter_block"
+  }
+}

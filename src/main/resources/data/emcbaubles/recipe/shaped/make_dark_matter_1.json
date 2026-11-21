@@ -1,0 +1,19 @@
+{
+  "result": {
+    "id": "projecte:dark_matter"
+  },
+  "pattern": [
+    "XYX",
+    "XYX",
+    "XYX"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "projecte:aeternalis_fuel"
+    },
+    "Y": {
+      "tag": "emcbaubles:matter/tier1"
+    }
+  }
+}

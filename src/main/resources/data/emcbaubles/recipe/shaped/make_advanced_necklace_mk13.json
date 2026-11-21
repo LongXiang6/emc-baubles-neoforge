@@ -1,0 +1,18 @@
+{
+  "result": {
+    "id": "emcbaubles:collector_mk13_necklace"
+  },
+  "pattern": [
+    "X",
+    "Y"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "tag": "emcbaubles:matter/tier13"
+    },
+    "Y": {
+      "item": "emcbaubles:collector_mk12_necklace"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "emcbaubles:block/lime_matter_block"
+  }
+}

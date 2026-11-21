@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "emcbaubles:clay_matter_block",
+    "emcbaubles:compressed_clay_matter_block",
+    "emcbaubles:compressed_dark_matter_block",
+    "emcbaubles:compressed_red_matter_block",
+    "emcbaubles:magenta_matter_block",
+    "emcbaubles:compressed_magenta_matter_block",
+    "emcbaubles:pink_matter_block",
+    "emcbaubles:compressed_pink_matter_block",
+    "emcbaubles:purple_matter_block",
+    "emcbaubles:compressed_purple_matter_block",
+    "emcbaubles:violet_matter_block",
+    "emcbaubles:compressed_violet_matter_block",
+    "emcbaubles:blue_matter_block",
+    "emcbaubles:compressed_blue_matter_block",
+    "emcbaubles:cyan_matter_block",
+    "emcbaubles:compressed_cyan_matter_block",
+    "emcbaubles:green_matter_block",
+    "emcbaubles:compressed_green_matter_block",
+    "emcbaubles:lime_matter_block",
+    "emcbaubles:compressed_lime_matter_block",
+    "emcbaubles:yellow_matter_block",
+    "emcbaubles:compressed_yellow_matter_block",
+    "emcbaubles:orange_matter_block",
+    "emcbaubles:compressed_orange_matter_block",
+    "emcbaubles:white_matter_block",
+    "emcbaubles:compressed_white_matter_block",
+    "emcbaubles:fading_matter_block",
+    "emcbaubles:compressed_fading_matter_block"
+  ]
+}

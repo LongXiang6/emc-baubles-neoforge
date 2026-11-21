@@ -1,0 +1,1 @@
+Unofficial port of EMC Baubles by JPAN_v2, who licenses the mod as MIT in its metadata. Original project: https://github.com/JPANv2/EMCBaubles/tree/08cafe37356f0dc8f2c2fdd5736807458a165d5d.

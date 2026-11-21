@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="emcbaubles"
+logoFile="lambda_logo.png"
+displayName = "EMC Baubles"
+description = "添加生成或消耗 EMC 的项链、护符、腰带和手镯，以及用于批量放置、替换和清理方块的建筑杖。"
+version = "1.3.3"
+authors = "JPAN"
+
+[[dependencies.emcbaubles]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+
+[[dependencies.emcbaubles]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,21.2)"
+
+[[dependencies.emcbaubles]]
+modId="projecte"
+type="required"
+versionRange="[1.1,2)"
+ordering="AFTER"
+
+[[dependencies.emcbaubles]]
+modId="curios"
+type="required"
+versionRange="[9,10)"
+ordering="AFTER"
+
+[[dependencies.emcbaubles]]
+modId="emc_precision"
+type="required"
+versionRange="[1.0.0,2)"
+ordering="AFTER"
+side="BOTH"

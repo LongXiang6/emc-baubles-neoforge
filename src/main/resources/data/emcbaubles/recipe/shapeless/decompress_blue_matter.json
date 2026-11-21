@@ -1,0 +1,12 @@
+{
+  "result": {
+    "count": 4,
+    "id": "emcbaubles:blue_matter"
+  },
+  "ingredients": [
+    {
+      "item": "emcbaubles:blue_matter_block"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

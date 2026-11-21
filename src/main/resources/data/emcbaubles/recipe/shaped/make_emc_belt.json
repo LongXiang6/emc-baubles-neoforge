@@ -1,0 +1,17 @@
+{
+  "result": {
+    "id": "emcbaubles:emc_belt"
+  },
+  "pattern": [
+    "ZXZ"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "tag": "emcbaubles:matter/tier3"
+    },
+    "Z": {
+      "item": "minecraft:leather"
+    }
+  }
+}

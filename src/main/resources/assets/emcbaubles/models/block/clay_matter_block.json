@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "emcbaubles:block/clay_matter_block"
+  }
+}
